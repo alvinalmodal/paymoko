@@ -1,0 +1,8 @@
+.example-card {
+  max-width: 250px;
+}
+
+.example-header-image {
+  background-image: url('https://robbreport.com/wp-content/uploads/2021/05/Bitcoin1.jpg?w=1000');
+  background-size: cover;
+}
